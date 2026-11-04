@@ -1,6 +1,6 @@
 # Introduction to Playwright
 
-Hi 👋🏽!
+Hi Everyone!
 
 Welcome to the course "Introduction to Playwright" by [Renata Andrade](https://testingwithrenata.com/) for the [Test Automation University](https://testautomationu.applitools.com/).
 
